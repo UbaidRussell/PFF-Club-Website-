@@ -18,3 +18,19 @@ html, body{
 .head-container{
     border-bottom: 5px solid red;;
 }
+
+
+/*Core members section*/
+.core-members-container{
+
+}
+.core-members-container h2{
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+
+.core-members-container img{
+    width: 400px;
+    height: 400px;
+}
