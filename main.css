@@ -45,3 +45,7 @@ html, body{
 }
 
 /*Join us section*/
+.join-us-messages h2{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
