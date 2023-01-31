@@ -78,7 +78,7 @@ html, body{
     background-color: #fff;
   }
   
-  .button-74:active {
+.button-74:active {
     box-shadow: #422800 2px 2px 0 0;
     transform: translate(2px, 2px);
   }
@@ -89,8 +89,23 @@ html, body{
       padding: 0 25px;
     }
   }
-
-
+/*Footer*/
+footer {
+        position: relative;
+        background-color: #9b9b9b;
+        padding: 1.5rem 2rem;
+        float: b;
+      }
+footer .content {
+        color: white;
+        display: flex;
+        font-size: .75rem;
+      }
+      
+footer .copyright {
+        flex-grow: 1;
+      }
+    
   /*Media Queries*/
   @media only screen and (min-width: 700px) and (max-width: 1000px){
   
